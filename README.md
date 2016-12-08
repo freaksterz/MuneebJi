@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/akveo/blur-admin.svg?branch=master)](https://travis-ci.org/akveo/blur-admin)
 
 # BlurAdmin Angular admin panel front-end framework
@@ -46,3 +47,7 @@ License
 
 Enjoy!
 We're always happy to hear your feedback.
+=======
+# MuneebJi
+An backend app for account management of small traders
+>>>>>>> ee0afb1dd64cdb20cb8b73e271a249a724165633
